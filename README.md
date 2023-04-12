@@ -6,6 +6,7 @@
 
 If you want to try out the project just follow those steps:
 
+```
 Install symfony by downloading from https://symfony.com/download
 composer install
 Setup mysql db as in the provided fruits.sql file
@@ -14,3 +15,4 @@ run php bin/console fruits:fetch to populate the db
 npm run dev to compile
 symfony serve to start the application
 http://locahost:8000/home to access the main page of the application
+```
